@@ -1,0 +1,7 @@
+C:\Users\gulaganjihalli_r1\Desktop\Practice\Core\CustomExceptionHandler\CustomExceptionHandler\bin\Debug\CustomExceptionHandler.dll
+C:\Users\gulaganjihalli_r1\Desktop\Practice\Core\CustomExceptionHandler\CustomExceptionHandler\bin\Debug\CustomExceptionHandler.pdb
+C:\Users\gulaganjihalli_r1\Desktop\Practice\Core\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\CustomExceptionHandler.csprojResolveAssemblyReference.cache
+C:\Users\gulaganjihalli_r1\Desktop\Practice\Core\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\CustomExceptionHandler.ResourceFiles.GlobalResource.resources
+C:\Users\gulaganjihalli_r1\Desktop\Practice\Core\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\CustomExceptionHandler.csproj.GenerateResource.Cache
+C:\Users\gulaganjihalli_r1\Desktop\Practice\Core\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\CustomExceptionHandler.dll
+C:\Users\gulaganjihalli_r1\Desktop\Practice\Core\CustomExceptionHandler\CustomExceptionHandler\obj\Debug\CustomExceptionHandler.pdb
